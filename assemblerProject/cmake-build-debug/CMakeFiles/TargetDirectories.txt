@@ -1,0 +1,3 @@
+C:/Users/farna/CLionProjects/assemblerProject/cmake-build-debug/CMakeFiles/assemblerProject.dir
+C:/Users/farna/CLionProjects/assemblerProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/farna/CLionProjects/assemblerProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

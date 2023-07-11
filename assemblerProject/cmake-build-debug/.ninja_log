@@ -1,0 +1,17 @@
+# ninja log v5
+1066	1187	7029871304443864	assemblerProject.exe	180f01ee73ac8a62
+3	1066	7029871303265766	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+4	969	7029872956119934	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+971	1082	7029872957204955	assemblerProject.exe	180f01ee73ac8a62
+3	1264	7029873591316499	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+1265	1394	7029873592594253	assemblerProject.exe	180f01ee73ac8a62
+3	847	7029874414819270	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+848	963	7029874415933146	assemblerProject.exe	180f01ee73ac8a62
+2	886	7029891152606019	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+887	982	7029891153524334	assemblerProject.exe	180f01ee73ac8a62
+8	2065	7030170961476024	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+2066	2988	7030170970682136	assemblerProject.exe	180f01ee73ac8a62
+4	7184	7091518964897200	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+7187	8951	7091518983876378	assemblerProject.exe	180f01ee73ac8a62
+10	6237	7092975517161474	CMakeFiles/assemblerProject.dir/main.c.obj	6540fdd1ebff7cee
+6238	7455	7092975529453393	assemblerProject.exe	180f01ee73ac8a62
